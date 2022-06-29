@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChadCooper06
 - 👀 I’m interested in coding, hiking, reading, cooking and learning new things.
-- 🌱 I’m currently learning to code.
+- 🌱 I recently graduated from Awesome Inc U's Web Developer Bootcamp.
 - 💞️ I’m looking to find a wonderful career with an awesome group of people doing great work.
 - 📫 How to reach me: https://www.linkedin.com/in/chad-cooper-dev/
 
